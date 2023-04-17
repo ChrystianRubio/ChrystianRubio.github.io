@@ -8,7 +8,15 @@ body{
 }
 
 img{
-    border-radius: 15%;
+    border-radius: 5%;
     max-width: 20vmin;
     float: right;
 }
+
+
+hr{
+    width: 100%;
+    height: 2px;
+    background-color: #000000;
+}
+
